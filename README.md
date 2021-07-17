@@ -33,7 +33,7 @@ Abrir terminal como administrador y usar:
 
 crear un archivo `.json`, en este caso será `db.json` y pegar el siguiente json.
 
-NOTA: para correr el servidor usar ``json-server --watch db.json`
+NOTA: para correr el servidor usar `json-server --watch db.json`
 
 
 ```
